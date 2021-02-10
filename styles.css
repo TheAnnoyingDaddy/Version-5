@@ -1,35 +1,62 @@
+/********************************TAG SELECTORS*********************************/
 body {
-  background-color: #fff3e6;
+  background-color: #ffe5b9;
+  font-family: "barlow";
+  margin: 0;
 }
 
 hr {
-  background-color: #fff3e6;
+  background-color: #ffe5b9;
   border-style: dotted none none;
   border-color: grey;
   border-width:8px;
-  width:50px;
+  width: 50px;
 }
-
 h1 {
-  background-color: #fff3e6;
-  color: #222831;
+  background-color: #ffe5b9;
+  color: #312c51;
+  margin-top: 0px;
 }
 
 h2 {
-  background-color: #fff3e6;
-  color: #222831;
+  background-color: #ffe5b9;
+  color: #312c51;
 }
 
-h3 {
-  background-color: #fff3e6;
-  color: #222831 ;
+h3{
+  background-color: #ffe5b9;
+  color: #312c51;
 }
 
 h4 {
-  background-color: #fff3e6;
-  color: #222831 ;
+  background-color: #ffe5b9;
+  color: #312c51;
+  font-family: helvetica,arial,sans-serif;
 }
 a  {
-  background-color: #fff3e6;
-  color: #222831;
+  background-color: #ffe5b9;
+  color: #312c51;
+}
+
+div {
+  background-color: #ffe5b9;
+}
+
+ffa45b
+/******************************CLASS SELECTORS*********************************/
+.body   {
+  background-repeat: no-repeat;
+  background-image: url("https://www.researchgate.net/profile/David_Baratoux/publication/257664696/figure/fig18/AS:669976503517212@1536746254692/Exploded-view-of-the-MU-Optical-Box-OBOX-Covers-have-been-removed-for-more-clarity.pbm");
+  background-position: center;
+}
+
+.mailing {
+  margin-bottom: 0px;
+
+}
+/******************************ID SELECTORS************************************/
+#head  {
+        background-color: #ffe5b9;
+        color: black;
+        ;
 }
